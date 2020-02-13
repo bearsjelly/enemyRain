@@ -22,14 +22,14 @@ body{
 
 #hero{
     width:35px;height:54px;
-    background:yellow url(images/hero.png) no-repeat;
+    background: url(images/hero.png) no-repeat;
     position: absolute;
     bottom:0;left:50%;
 }
 
 .enemy{
     width:45px;height:54px;
-    background:red url(images/enemy.png) no-repeat;
+    background: url(images/enemy.png) no-repeat;
     position: absolute;
-    top:0;left:350px;
+    top:0;
 }
